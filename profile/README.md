@@ -9,6 +9,12 @@ Welcome to **Sprunki Halloween Mod**! Dive into a spine-chilling musical journey
 
 [Go to Sprunki Halloween](https://sprunkiincredibox.app/sprunki-halloween)
 
+
+
+## [Play Sprunki Babies](https://sprunkiincredibox.app/sprunki-babies)
+
+## [Play Sprunki Mixer](https://sprunkiincredibox.app/sprunki-mixer)
+
 ## Game Features
 - **Haunting Soundtracks**: Explore custom Halloween-themed tracks that capture the essence of spooky season.
 - **Unique Characters**: Interact with a cast of Halloween-inspired characters, each with its own eerie style.
@@ -24,3 +30,8 @@ Click the link below to start your spooky adventure:
 [Go to Sprunki Halloween](https://sprunkiincredibox.app/sprunki-halloween)
 
 Enjoy the beats and have a hauntingly good time!
+
+Resouce:
+
+[Sprunki Babies](https://github.com/Sprunki-Babies/)
+[Sprunki Mixer](https://github.com/Sprunki-Mixer-Mod)
